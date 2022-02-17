@@ -1,0 +1,23 @@
+{
+  "isPublic": false,
+  "viewMode": false,
+  "appIsExample": false,
+  "unreadCommentThreads": 0,
+  "color": "#FFEFDB",
+  "icon": "basketball",
+  "slug": "untitled-application-1",
+  "unpublishedAppLayout": {
+    "type": "MOBILE"
+  },
+  "publishedAppLayout": {
+    "type": "MOBILE"
+  },
+  "evaluationVersion": 2,
+  "publishedModeThemeId": "620e76044bcc2837c1a69727",
+  "editModeThemeId": "620e76044bcc2837c1a69727",
+  "createdAt": {
+    "seconds": 1645116065,
+    "nanos": 926000000
+  },
+  "deleted": false
+}
